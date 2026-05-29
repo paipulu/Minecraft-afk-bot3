@@ -4,8 +4,8 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 // Configuration - Edit these values for your server
 const config = {
   server: {
-    host: 'localhost', // Change to your server IP
-    port: 25565,
+    host: 'paipulu.aternos.me', // Change to your server IP
+    port: 47893,
     version: '1.20.4' // Change to your server version
   },
   bot: {
